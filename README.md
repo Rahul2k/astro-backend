@@ -10,14 +10,14 @@ This is a backend service that generates and serves personalized daily horoscope
 7. Rate limiting to prevent API abuse (5 requests per minute).
    
 ## Tech Stack
-Node.js: JavaScript runtime for the backend.
-Express.js: Web framework for creating the API.
-MongoDB: NoSQL database to store user and horoscope data.
-Mongoose: ODM for interacting with MongoDB.
-jsonwebtoken: For generating and verifying JSON Web Tokens.
-bcryptjs: For hashing passwords before storing them.
-express-rate-limit: Middleware for rate limiting.
-AI tool : Gemini 2.5 Pro
+1. Node.js: JavaScript runtime for the backend.
+2. Express.js: Web framework for creating the API.
+3. MongoDB: NoSQL database to store user and horoscope data.
+4. Mongoose: ODM for interacting with MongoDB.
+5. jsonwebtoken: For generating and verifying JSON Web Tokens.
+6. bcryptjs: For hashing passwords before storing them.
+7. express-rate-limit: Middleware for rate limiting.
+8. AI tool : Gemini 2.5 Pro
 
 
 
