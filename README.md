@@ -37,7 +37,7 @@ npm install
 ```bash
 npm start
 ```
-Postman Collection for all apis : https://api.postman.com/collections/23293598-e606dd02-4c4a-46d0-b965-50dc29abc649?access_key=PMAT-01K3NF8YD185QZEE536WG5TJY0
+Postman Collection for all apis : https://api.postman.com/collections/23293598-e606dd02-4c4a-46d0-b965-50dc29abc649?access_key=PMAT-01K3NF8YD185QZEE536WG5TJY0 <br />
 The server will be running on http://localhost:3000.
 
 
